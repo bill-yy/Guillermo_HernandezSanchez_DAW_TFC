@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<configuracion>
+    <ipServidorBD>127.0.0.1</ipServidorBD>
+    <nombreBD>prometeo</nombreBD>
+    <usuarioBD>prometeo</usuarioBD>
+    <claveBD>H7aNNAr1!</claveBD>
+</configuracion>

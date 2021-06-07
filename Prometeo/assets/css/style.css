@@ -1,0 +1,10 @@
+.d-xl-flex {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.titulo-card {
+  color: black;
+}
+

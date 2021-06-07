@@ -1,0 +1,19 @@
+.dropdown-item {
+  color: white;
+}
+
+.d-xl-flex {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.menu {
+  border: none;
+  background-color: #313133;
+}
+
+.btn-primary {
+  border-color: #3F3F42;
+}
+

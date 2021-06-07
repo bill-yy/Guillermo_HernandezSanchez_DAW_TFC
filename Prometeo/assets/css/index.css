@@ -1,0 +1,13 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-image: linear-gradient(to right top, #353539, #665165, #a86b7b, #e38d79, #ffc06f);
+}
+
+.form-control {
+  border: none;
+}
+

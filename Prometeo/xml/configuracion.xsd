@@ -1,0 +1,12 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="configuracion">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="ipServidorBD" type="xs:string"/>
+                <xs:element name="nombreBD" type="xs:string"/>
+                <xs:element name="usuarioBD" type="xs:string"/>
+                <xs:element name="claveBD" type="xs:string"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
